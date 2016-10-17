@@ -4,5 +4,7 @@
 # no .d file
 *.d
 
-# no myos.img
+# no myos.img kernel bootblock
 myos.img
+kernel
+bootblock
