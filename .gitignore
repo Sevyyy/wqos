@@ -1,0 +1,8 @@
+# no .o file
+*.o
+
+# no .d file
+*.d
+
+# no myos.img
+myos.img

@@ -1,0 +1,509 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALT	kbd.h	11;"	d
+AS	Makefile	/^AS = as$/;"	m
+ASFLAGS	Makefile	/^ASFLAGS = -m32 -gdwarf-2 -Wa,-divide$/;"	m
+BACKSPACE	console.c	94;"	d	file:
+BUFLEN	console.c	276;"	d	file:
+C	kbd.h	32;"	d
+CAPSLOCK	kbd.h	13;"	d
+CC	Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -fno-pic -static -fno-builtin -fno-strict-aliasing -fvar-tracking -fvar-tracking-assignments -O0 -g -Wall -MD -gdwarf-2 -m32   -fno-omit-frame-pointer$/;"	m
+CR0_AM	mmu.h	39;"	d
+CR0_CD	mmu.h	41;"	d
+CR0_EM	mmu.h	34;"	d
+CR0_ET	mmu.h	36;"	d
+CR0_MP	mmu.h	33;"	d
+CR0_NE	mmu.h	37;"	d
+CR0_NW	mmu.h	40;"	d
+CR0_PE	mmu.h	32;"	d
+CR0_PG	mmu.h	42;"	d
+CR0_TS	mmu.h	35;"	d
+CR0_WP	mmu.h	38;"	d
+CR4_PSE	mmu.h	44;"	d
+CRTPORT	console.c	95;"	d	file:
+CTL	kbd.h	10;"	d
+DATA_BASE	fs.h	26;"	d
+DATA_SECT	fs.h	24;"	d
+DEFS_H	defs.h	2;"	d
+DEVSPACE	memlayout.h	7;"	d
+DIR_ENTRY_SIZE	fs.h	15;"	d
+DIR_MODE	fs.h	45;"	d
+DISK_SIZE	fs.h	9;"	d
+DPL_USER	mmu.h	83;"	d
+E0ESC	kbd.h	17;"	d
+ELF_MAGIC	elf.h	3;"	d
+ELF_PROG_FLAG_EXEC	elf.h	40;"	d
+ELF_PROG_FLAG_READ	elf.h	42;"	d
+ELF_PROG_FLAG_WRITE	elf.h	41;"	d
+ELF_PROG_LOAD	elf.h	37;"	d
+EXTMEM	memlayout.h	5;"	d
+FILE_MODE	fs.h	44;"	d
+FL_AC	mmu.h	26;"	d
+FL_AF	mmu.h	11;"	d
+FL_CF	mmu.h	9;"	d
+FL_DF	mmu.h	16;"	d
+FL_ID	mmu.h	29;"	d
+FL_IF	mmu.h	15;"	d
+FL_IOPL_0	mmu.h	19;"	d
+FL_IOPL_1	mmu.h	20;"	d
+FL_IOPL_2	mmu.h	21;"	d
+FL_IOPL_3	mmu.h	22;"	d
+FL_IOPL_MASK	mmu.h	18;"	d
+FL_NT	mmu.h	23;"	d
+FL_OF	mmu.h	17;"	d
+FL_PF	mmu.h	10;"	d
+FL_RF	mmu.h	24;"	d
+FL_SF	mmu.h	13;"	d
+FL_TF	mmu.h	14;"	d
+FL_VIF	mmu.h	27;"	d
+FL_VIP	mmu.h	28;"	d
+FL_VM	mmu.h	25;"	d
+FL_ZF	mmu.h	12;"	d
+FSSIZE	param.h	13;"	d
+FS_BASE	fs.h	12;"	d
+IDT_H_	idt.h	2;"	d
+INODE_ARRAY_OFFSET	fs.h	20;"	d
+INODE_ARRAY_SIZE	fs.h	21;"	d
+INODE_MAP_OFFSET	fs.h	18;"	d
+INODE_MAP_SIZE	fs.h	19;"	d
+INODE_SIZE	fs.h	14;"	d
+INPUT_BUF	console.c	215;"	d	file:
+IRQ0	idt.h	101;"	d
+IRQ1	idt.h	102;"	d
+IRQ10	idt.h	111;"	d
+IRQ11	idt.h	112;"	d
+IRQ12	idt.h	113;"	d
+IRQ13	idt.h	114;"	d
+IRQ14	idt.h	115;"	d
+IRQ15	idt.h	116;"	d
+IRQ2	idt.h	103;"	d
+IRQ3	idt.h	104;"	d
+IRQ4	idt.h	105;"	d
+IRQ5	idt.h	106;"	d
+IRQ6	idt.h	107;"	d
+IRQ7	idt.h	108;"	d
+IRQ8	idt.h	109;"	d
+IRQ9	idt.h	110;"	d
+KBDATAP	kbd.h	5;"	d
+KBSTATP	kbd.h	3;"	d
+KBS_DIB	kbd.h	4;"	d
+KERNBASE	memlayout.h	10;"	d
+KERNLINK	memlayout.h	11;"	d
+KEY_DEL	kbd.h	29;"	d
+KEY_DN	kbd.h	23;"	d
+KEY_END	kbd.h	21;"	d
+KEY_HOME	kbd.h	20;"	d
+KEY_INS	kbd.h	28;"	d
+KEY_LF	kbd.h	24;"	d
+KEY_PGDN	kbd.h	27;"	d
+KEY_PGUP	kbd.h	26;"	d
+KEY_RT	kbd.h	25;"	d
+KEY_UP	kbd.h	22;"	d
+KSTACKSIZE	param.h	2;"	d
+LD	Makefile	/^LD = ld$/;"	m
+LOGSIZE	param.h	11;"	d
+MAXARG	param.h	9;"	d
+MAXBUF	fs.h	8;"	d
+MAXOPBLOCKS	param.h	10;"	d
+MAX_DIR	fs.h	16;"	d
+MAX_INODE	fs.h	7;"	d
+MAX_NAME	fs.h	6;"	d
+MEMLAYOUT_H	memlayout.h	3;"	d
+MMU_H	mmu.h	2;"	d
+NBUF	param.h	12;"	d
+NCOMMANDS	fs.c	29;"	d	file:
+NCPU	param.h	3;"	d
+NDEV	param.h	7;"	d
+NFILE	param.h	5;"	d
+NINODE	param.h	6;"	d
+NO	kbd.h	7;"	d
+NOFILE	param.h	4;"	d
+NPDENTRIES	mmu.h	125;"	d
+NPROC	param.h	1;"	d
+NPTENTRIES	mmu.h	126;"	d
+NULL	types.h	12;"	d
+NUMLOCK	kbd.h	14;"	d
+OBJCOPY	Makefile	/^OBJCOPY = objcopy$/;"	m
+OBJS	Makefile	/^OBJS = \\$/;"	m
+P2V	memlayout.h	21;"	d
+P2V_WO	memlayout.h	24;"	d
+PDX	mmu.h	116;"	d
+PDXSHIFT	mmu.h	131;"	d
+PGADDR	mmu.h	122;"	d
+PGROUNDDOWN	mmu.h	134;"	d
+PGROUNDUP	mmu.h	133;"	d
+PGSHIFT	mmu.h	129;"	d
+PGSIZE	mmu.h	127;"	d
+PHYSTOP	memlayout.h	6;"	d
+PTE_A	mmu.h	142;"	d
+PTE_ADDR	mmu.h	148;"	d
+PTE_D	mmu.h	143;"	d
+PTE_FLAGS	mmu.h	149;"	d
+PTE_MBZ	mmu.h	145;"	d
+PTE_P	mmu.h	137;"	d
+PTE_PCD	mmu.h	141;"	d
+PTE_PS	mmu.h	144;"	d
+PTE_PWT	mmu.h	140;"	d
+PTE_U	mmu.h	139;"	d
+PTE_W	mmu.h	138;"	d
+PTX	mmu.h	119;"	d
+PTXSHIFT	mmu.h	130;"	d
+ROOT	fs.h	11;"	d
+ROOTDEV	param.h	8;"	d
+SCROLLLOCK	kbd.h	15;"	d
+SECTOR_MAP_OFFSET	fs.h	22;"	d
+SECTOR_MAP_SIZE	fs.h	23;"	d
+SECTOR_SIZE	fs.h	10;"	d
+SECTSIZE	bootmain.c	13;"	d	file:
+SEG	mmu.h	73;"	d
+SEG16	mmu.h	77;"	d
+SEG_ASM	asm.h	11;"	d
+SEG_KCODE	mmu.h	46;"	d
+SEG_KCPU	mmu.h	48;"	d
+SEG_KDATA	mmu.h	47;"	d
+SEG_NULLASM	asm.h	5;"	d
+SEG_TSS	mmu.h	51;"	d
+SEG_UCODE	mmu.h	49;"	d
+SEG_UDATA	mmu.h	50;"	d
+SETGATE	mmu.h	217;"	d
+SHIFT	kbd.h	9;"	d
+STA_A	asm.h	21;"	d
+STA_A	mmu.h	91;"	d
+STA_C	asm.h	18;"	d
+STA_C	mmu.h	88;"	d
+STA_E	asm.h	17;"	d
+STA_E	mmu.h	87;"	d
+STA_R	asm.h	20;"	d
+STA_R	mmu.h	90;"	d
+STA_W	asm.h	19;"	d
+STA_W	mmu.h	89;"	d
+STA_X	asm.h	16;"	d
+STA_X	mmu.h	86;"	d
+STS_CG16	mmu.h	97;"	d
+STS_CG32	mmu.h	103;"	d
+STS_IG16	mmu.h	99;"	d
+STS_IG32	mmu.h	104;"	d
+STS_LDT	mmu.h	95;"	d
+STS_T16A	mmu.h	94;"	d
+STS_T16B	mmu.h	96;"	d
+STS_T32A	mmu.h	101;"	d
+STS_T32B	mmu.h	102;"	d
+STS_TG	mmu.h	98;"	d
+STS_TG16	mmu.h	100;"	d
+STS_TG32	mmu.h	105;"	d
+TRAPHANDLER	trap.S	/^#define TRAPHANDLER(name, num)      \\$/;"	d
+TRAPHANDLER	trap.S	/^TRAPHANDLER     (isr10, 10)$/;"	l
+TRAPHANDLER	trap.S	/^TRAPHANDLER     (isr11, 11)$/;"	l
+TRAPHANDLER	trap.S	/^TRAPHANDLER     (isr12, 12)$/;"	l
+TRAPHANDLER	trap.S	/^TRAPHANDLER     (isr13, 13)$/;"	l
+TRAPHANDLER	trap.S	/^TRAPHANDLER     (isr14, 14)$/;"	l
+TRAPHANDLER	trap.S	/^TRAPHANDLER     (isr17, 17)$/;"	l
+TRAPHANDLER	trap.S	/^TRAPHANDLER     (isr8, 8)$/;"	l
+TRAPHANDLER_NOEC	trap.S	/^#define TRAPHANDLER_NOEC(name, num) \\$/;"	d
+TYPES_H	types.h	2;"	d
+V2P	memlayout.h	20;"	d
+V2P_WO	memlayout.h	23;"	d
+X86_H	x86.h	3;"	d
+_FS_H	fs.h	2;"	d
+_start	entry.S	/^_start = V2P_WO(entry)$/;"	d
+add_entry	fs.c	/^void add_entry(struct inode * node, struct dir_ent * dir)$/;"	f
+align	elf.h	/^  uint align;$/;"	m	struct:proghdr
+alloc_data	fs.c	/^uint alloc_data()$/;"	f
+alloc_inode	fs.c	/^int alloc_inode()$/;"	f
+alltraps	trap.S	/^alltraps:$/;"	l
+always0	idt.h	/^	uchar  always0;        \/\/ 置 0 段$/;"	m	struct:idt_entry
+args	mmu.h	/^  unsigned args : 5;        \/\/ # args, 0 for interrupt\/trap gates$/;"	m	struct:gatedesc
+avl	mmu.h	/^  unsigned avl : 1;        \/\/ Unused (available for software use)$/;"	m	struct:segdesc
+base	idt.h	/^	uint base; 		\/\/ 基址$/;"	m	struct:idt_ptr
+base_15_0	mmu.h	/^  unsigned base_15_0 : 16; \/\/ Low bits of segment base address$/;"	m	struct:segdesc
+base_23_16	mmu.h	/^  unsigned base_23_16 : 8; \/\/ Middle bits of segment base address$/;"	m	struct:segdesc
+base_31_24	mmu.h	/^  unsigned base_31_24 : 8; \/\/ High bits of segment base address$/;"	m	struct:segdesc
+base_high	idt.h	/^	ushort base_high;        \/\/ 中断处理函数地址 31～16 位$/;"	m	struct:idt_entry
+base_low	idt.h	/^	ushort base_low;        \/\/ 中断处理函数地址 15～0 位$/;"	m	struct:idt_entry
+bootmain	bootmain.c	/^void bootmain(void)$/;"	f
+buf	console.c	/^	char buf[INPUT_BUF];$/;"	m	struct:__anon1	file:
+buf	console.c	/^static char buf[BUFLEN];$/;"	v	file:
+bzero	string.c	/^void bzero(void *dest, uint len)$/;"	f
+cgaputc	console.c	/^static void cgaputc(int c)$/;"	f	file:
+charcode	console.c	/^static uchar *charcode[4] = {normalmap, shiftmap, ctlmap, ctlmap};$/;"	v	file:
+cleanscreen	console.c	/^void cleanscreen()$/;"	f
+cli	x86.h	/^static inline void cli(void)$/;"	f
+command	fs.h	/^struct command{$/;"	s
+commands	fs.c	/^static struct command commands[] = {$/;"	v	typeref:struct:command	file:
+consgetc	console.c	/^int consgetc(void)$/;"	f
+consoleintr	console.c	/^void consoleintr(int (*getc)(void))$/;"	f
+consputc	console.c	/^void consputc(int c)$/;"	f
+cprintf	console.c	/^void cprintf(char *fmt, ...)$/;"	f
+cr3	mmu.h	/^  void *cr3;         \/\/ Page directory base$/;"	m	struct:taskstate
+crt	console.c	/^static ushort *crt = (ushort*)P2V(0xb8000); $/;"	v	file:
+cs	idt.h	/^	uint cs; 		$/;"	m	struct:pt_regs
+cs	mmu.h	/^  unsigned cs : 16;         \/\/ code segment selector$/;"	m	struct:gatedesc
+cs	mmu.h	/^  unsigned short cs;$/;"	m	struct:taskstate
+cs	x86.h	/^  ushort cs;$/;"	m	struct:trapframe
+ctlmap	kbd.h	/^static uchar ctlmap[256] =$/;"	v
+cur_dir	fs.c	/^char cur_dir[64];$/;"	v
+data_sect	fs.h	/^	uint data_sect;            \/\/the start  sector of the data$/;"	m	struct:super_block
+db	mmu.h	/^  unsigned db : 1;         \/\/ 0 = 16-bit segment, 1 = 32-bit segment$/;"	m	struct:segdesc
+dir_ent	fs.h	/^struct dir_ent$/;"	s
+do_catch	fs.c	/^void do_catch(char * p)$/;"	f
+do_cd	fs.c	/^void do_cd(char * p)$/;"	f
+do_dance	fs.c	/^void do_dance(char * p)$/;"	f
+do_echo	fs.c	/^void do_echo(char *p)$/;"	f
+do_help	fs.c	/^void do_help(char * p)$/;"	f
+do_ls	fs.c	/^void do_ls(char * p)$/;"	f
+do_mkdir	fs.c	/^void do_mkdir(char * p)$/;"	f
+do_pray	fs.c	/^void do_pray(char * p)$/;"	f
+do_pwd	fs.c	/^void do_pwd(char * p)$/;"	f
+do_quit	fs.c	/^void do_quit(char * p)$/;"	f
+do_touch	fs.c	/^void do_touch(char * p)$/;"	f
+dpl	mmu.h	/^  unsigned dpl : 2;         \/\/ descriptor(meaning new) privilege level$/;"	m	struct:gatedesc
+dpl	mmu.h	/^  unsigned dpl : 2;        \/\/ Descriptor Privilege Level$/;"	m	struct:segdesc
+ds	idt.h	/^	uint ds;		\/\/ 用于保存用户的数据段描述符$/;"	m	struct:pt_regs
+ds	mmu.h	/^  unsigned short ds;$/;"	m	struct:taskstate
+ds	x86.h	/^  ushort ds;$/;"	m	struct:trapframe
+e	console.c	/^	uint e;    \/\/edit$/;"	m	struct:__anon1	file:
+eax	idt.h	/^	uint eax;$/;"	m	struct:pt_regs
+eax	mmu.h	/^  unsigned eax;          \/\/ More saved state (registers)$/;"	m	struct:taskstate
+eax	x86.h	/^  uint eax;$/;"	m	struct:trapframe
+ebp	idt.h	/^	uint ebp;$/;"	m	struct:pt_regs
+ebp	mmu.h	/^  unsigned *ebp;$/;"	m	struct:taskstate
+ebp	x86.h	/^  uint ebp;$/;"	m	struct:trapframe
+ebx	idt.h	/^	uint ebx;$/;"	m	struct:pt_regs
+ebx	mmu.h	/^  unsigned ebx;$/;"	m	struct:taskstate
+ebx	x86.h	/^  uint ebx;$/;"	m	struct:trapframe
+ecx	idt.h	/^	uint ecx;$/;"	m	struct:pt_regs
+ecx	mmu.h	/^  unsigned ecx;$/;"	m	struct:taskstate
+ecx	x86.h	/^  uint ecx;$/;"	m	struct:trapframe
+edi	idt.h	/^	uint edi; 		\/\/ 从 edi 到 eax 由 pusha 指令压入$/;"	m	struct:pt_regs
+edi	mmu.h	/^  unsigned edi;$/;"	m	struct:taskstate
+edi	x86.h	/^  uint edi;$/;"	m	struct:trapframe
+edx	idt.h	/^	uint edx;$/;"	m	struct:pt_regs
+edx	mmu.h	/^  unsigned edx;$/;"	m	struct:taskstate
+edx	x86.h	/^  uint edx;$/;"	m	struct:trapframe
+eflags	idt.h	/^	uint eflags;$/;"	m	struct:pt_regs
+eflags	mmu.h	/^  unsigned eflags;$/;"	m	struct:taskstate
+eflags	x86.h	/^  uint eflags;$/;"	m	struct:trapframe
+ehsize	elf.h	/^  ushort ehsize;$/;"	m	struct:elfhdr
+eip	idt.h	/^	uint eip;		\/\/ 以下由处理器自动压入$/;"	m	struct:pt_regs
+eip	mmu.h	/^  unsigned *eip;         \/\/ Saved state from last task switch$/;"	m	struct:taskstate
+eip	x86.h	/^  uint eip;$/;"	m	struct:trapframe
+elf	elf.h	/^  uchar elf[12];$/;"	m	struct:elfhdr
+elfhdr	elf.h	/^struct elfhdr {$/;"	s
+entry	elf.h	/^  uint entry;$/;"	m	struct:elfhdr
+entry	entry.S	/^entry:$/;"	l
+entry_pgdir	entrypgtable.c	/^pde_t entry_pgdir[NPDENTRIES] = {$/;"	v
+entry_pgtable	entrypgtable.c	/^pte_t entry_pgtable[NPTENTRIES] = {$/;"	v
+entry_pgtable	entrypgtable.c	/^pte_t entry_pgtable[NPTENTRIES];$/;"	v
+entry_pgtable1	entrypgtable.c	/^pte_t entry_pgtable1[NPTENTRIES] = {$/;"	v
+entry_pgtable1	entrypgtable.c	/^pte_t entry_pgtable1[NPTENTRIES];$/;"	v
+err	x86.h	/^  uint err;$/;"	m	struct:trapframe
+err_code	idt.h	/^	uint err_code;  	\/\/ 错误代码(有中断错误代码的中断会由CPU压入)$/;"	m	struct:pt_regs
+es	mmu.h	/^  unsigned short es;         \/\/ Even more saved state (segment selectors)$/;"	m	struct:taskstate
+es	x86.h	/^  ushort es;$/;"	m	struct:trapframe
+esi	idt.h	/^	uint esi; $/;"	m	struct:pt_regs
+esi	mmu.h	/^  unsigned esi;$/;"	m	struct:taskstate
+esi	x86.h	/^  uint esi;$/;"	m	struct:trapframe
+esp	idt.h	/^	uint esp;$/;"	m	struct:pt_regs
+esp	mmu.h	/^  unsigned *esp;$/;"	m	struct:taskstate
+esp	x86.h	/^  uint esp;$/;"	m	struct:trapframe
+esp0	mmu.h	/^  unsigned esp0;         \/\/ Stack pointers and segment selectors$/;"	m	struct:taskstate
+esp1	mmu.h	/^  unsigned *esp1;$/;"	m	struct:taskstate
+esp2	mmu.h	/^  unsigned *esp2;$/;"	m	struct:taskstate
+f	Makefile	/^	dd if=\/dev\/zero of=myos.img count=25000$/;"	m
+f	Makefile	/^	dd if=bootblock of=myos.img conv=notrunc$/;"	m
+f	Makefile	/^	dd if=kernel of=myos.img seek=1 conv=notrunc$/;"	m
+filesz	elf.h	/^  uint filesz;$/;"	m	struct:proghdr
+flags	elf.h	/^  uint flags;$/;"	m	struct:elfhdr
+flags	elf.h	/^  uint flags;$/;"	m	struct:proghdr
+flags	idt.h	/^	uchar  flags;          \/\/ 一些标志，文档有解释$/;"	m	struct:idt_entry
+free_inode	fs.c	/^void free_inode(uint num)$/;"	f
+free_sector	fs.c	/^void free_sector(uint num)$/;"	f
+fs	mmu.h	/^  unsigned short fs;$/;"	m	struct:taskstate
+fs	x86.h	/^  ushort fs;$/;"	m	struct:trapframe
+func	fs.h	/^	void (*func)(char * p);$/;"	m	struct:command
+g	mmu.h	/^  unsigned g : 1;          \/\/ Granularity: limit scaled by 4K when set$/;"	m	struct:segdesc
+gatedesc	mmu.h	/^struct gatedesc {$/;"	s
+gdt	bootasm.S	/^gdt:$/;"	l
+gdtdesc	bootasm.S	/^gdtdesc:$/;"	l
+get_inode	fs.c	/^void get_inode(uint num, struct inode * node)$/;"	f
+getchar	console.c	/^int getchar(void)$/;"	f
+gs	mmu.h	/^  unsigned short gs;$/;"	m	struct:taskstate
+gs	x86.h	/^  ushort gs;$/;"	m	struct:trapframe
+i_mode	fs.h	/^	uint i_mode;     \/\/ 1 = file    2 = directory $/;"	m	struct:inode
+i_nsect	fs.h	/^	uint i_nsect;   \/\/ the number of sectors the file use$/;"	m	struct:inode
+i_num	fs.h	/^	uint i_num;    \/\/ the number of an inode$/;"	m	struct:dir_ent
+i_num	fs.h	/^	uint i_num;    \/\/ the number of an inode$/;"	m	struct:inode
+i_pnum	fs.h	/^	uint i_pnum;   \/\/ the number of the parent inode$/;"	m	struct:inode
+i_size	fs.h	/^	uint i_size;   \/\/ the size of file or the size of a directory$/;"	m	struct:inode
+i_start_sect	fs.h	/^	uint i_start_sect;     \/\/the start sector of the file$/;"	m	struct:inode
+idt_entries	idt.c	/^struct idt_entry idt_entries[256];$/;"	v	typeref:struct:idt_entry
+idt_entry	idt.h	/^struct idt_entry {$/;"	s
+idt_ptr	idt.h	/^struct idt_ptr {$/;"	s
+idt_ptrs	idt.c	/^struct idt_ptr idt_ptrs;$/;"	v	typeref:struct:idt_ptr
+idt_set_gate	idt.c	/^static void idt_set_gate(uchar num, uint base, ushort sel, uchar flags)$/;"	f	file:
+inb	x86.h	/^static inline uchar inb(ushort port)$/;"	f
+init_idt	idt.c	/^void init_idt()$/;"	f
+inode	fs.h	/^struct inode$/;"	s
+inode_array	fs.c	/^uchar inode_array[INODE_ARRAY_SIZE * SECTOR_SIZE];$/;"	v
+inode_array	fs.h	/^	struct segment inode_array;    \/\/ the inode table  3,$/;"	m	struct:super_block	typeref:struct:super_block::segment
+inode_map	fs.c	/^uchar inode_map[INODE_MAP_SIZE * SECTOR_SIZE];$/;"	v
+inode_map	fs.h	/^	struct segment inode_map;   \/\/ inode bit map    \/\/2,1$/;"	m	struct:super_block	typeref:struct:super_block::segment
+input	console.c	/^} input;$/;"	v	typeref:struct:__anon1
+insl	x86.h	/^static inline void insl(int port, void *addr, int cnt)$/;"	f
+int_no	idt.h	/^	uint int_no; 	\/\/ 中断号$/;"	m	struct:pt_regs
+interrupt_handler_t	idt.h	/^typedef void (*interrupt_handler_t)(struct pt_regs *);$/;"	t
+interrupt_handlers	idt.c	/^interrupt_handler_t interrupt_handlers[256];$/;"	v
+invlpg	x86.h	/^static inline void invlpg(void *addr)$/;"	f
+iomb	mmu.h	/^  unsigned short iomb;       \/\/ I\/O map base address$/;"	m	struct:taskstate
+irq_handler	idt.c	/^void irq_handler(struct pt_regs *regs)$/;"	f
+isr_handler	idt.c	/^void isr_handler(struct pt_regs *regs)$/;"	f
+kbdgetc	console.c	/^int kbdgetc(void)$/;"	f
+kbdinit	console.c	/^void kbdinit()$/;"	f
+kbdintr	console.c	/^void kbdintr(void)$/;"	f
+lcr3	x86.h	/^static inline void lcr3(uint val) $/;"	f
+ldt	mmu.h	/^  unsigned short ldt;$/;"	m	struct:taskstate
+lgdt	x86.h	/^static inline void lgdt(struct segdesc *p, int size)$/;"	f
+lidt	x86.h	/^static inline void lidt(struct gatedesc *p, int size)$/;"	f
+lim_15_0	mmu.h	/^  unsigned lim_15_0 : 16;  \/\/ Low bits of segment limit$/;"	m	struct:segdesc
+lim_19_16	mmu.h	/^  unsigned lim_19_16 : 4;  \/\/ High bits of segment limit$/;"	m	struct:segdesc
+limit	idt.h	/^	ushort limit; 	\/\/ 限长$/;"	m	struct:idt_ptr
+link	mmu.h	/^  unsigned link;         \/\/ Old ts selector$/;"	m	struct:taskstate
+loadgs	x86.h	/^static inline void loadgs(ushort v)$/;"	f
+ltr	x86.h	/^static inline void ltr(ushort sel)$/;"	f
+machine	elf.h	/^  ushort machine;$/;"	m	struct:elfhdr
+magic	elf.h	/^  uint magic;  \/\/ must equal ELF_MAGIC$/;"	m	struct:elfhdr
+magic	fs.h	/^	uint magic;         \/\/ a magic number   \/\/0x1111$/;"	m	struct:super_block
+main	main.c	/^int main(void)$/;"	f
+memcmp	string.c	/^int memcmp(const void *v1, const void *v2, uint n)$/;"	f
+memcpy	string.c	/^void* memcpy(void *dst, const void *src, uint n)$/;"	f
+memmove	string.c	/^void* memmove(void *dst, const void *src, uint n)$/;"	f
+memset	string.c	/^void* memset(void *dst, int c, uint n)$/;"	f
+memsz	elf.h	/^  uint memsz;$/;"	m	struct:proghdr
+mkfs	fs.c	/^void mkfs()$/;"	f
+multiboot_header	entry.S	/^multiboot_header:$/;"	l
+name	fs.h	/^	char name[12];   \/\/ the name of the entry$/;"	m	struct:dir_ent
+name	fs.h	/^	const char * name;$/;"	m	struct:command
+name	trap.S	/^	name:                           \\ $/;"	l
+name	trap.S	/^	name:                           \\$/;"	l
+new_entry_pgdir	entrypgtable.c	/^pde_t * new_entry_pgdir = (pde_t *)(KERNBASE + 2 * 1024 * 1024);$/;"	v
+new_entry_pgtable	entrypgtable.c	/^pte_t * new_entry_pgtable = (pte_t *)(KERNBASE + 2 * 1024 * 1024 + 4096);$/;"	v
+normalmap	kbd.h	/^static uchar normalmap[256] =$/;"	v
+oesp	x86.h	/^  uint oesp;      \/\/ useless & ignored$/;"	m	struct:trapframe
+off	elf.h	/^  uint off;$/;"	m	struct:proghdr
+off_15_0	mmu.h	/^  unsigned off_15_0 : 16;   \/\/ low 16 bits of offset in segment$/;"	m	struct:gatedesc
+off_31_16	mmu.h	/^  unsigned off_31_16 : 16;  \/\/ high bits of offset in segment$/;"	m	struct:gatedesc
+offset	fs.h	/^	uint offset;$/;"	m	struct:segment
+outb	x86.h	/^static inline void outb(ushort port, uchar data)$/;"	f
+outsl	x86.h	/^static inline void outsl(int port, const void *addr, int cnt)$/;"	f
+outw	x86.h	/^static inline void outw(ushort port, ushort data)$/;"	f
+p	mmu.h	/^  unsigned p : 1;           \/\/ Present$/;"	m	struct:gatedesc
+p	mmu.h	/^  unsigned p : 1;          \/\/ Present$/;"	m	struct:segdesc
+p2v	memlayout.h	/^static inline void *p2v(unsigned a) { return (void *) ((a) + KERNBASE); }$/;"	f
+padding1	mmu.h	/^  unsigned short padding1;$/;"	m	struct:taskstate
+padding1	x86.h	/^  ushort padding1;$/;"	m	struct:trapframe
+padding10	mmu.h	/^  unsigned short padding10;$/;"	m	struct:taskstate
+padding2	mmu.h	/^  unsigned short padding2;$/;"	m	struct:taskstate
+padding2	x86.h	/^  ushort padding2;$/;"	m	struct:trapframe
+padding3	mmu.h	/^  unsigned short padding3;$/;"	m	struct:taskstate
+padding3	x86.h	/^  ushort padding3;$/;"	m	struct:trapframe
+padding4	mmu.h	/^  unsigned short padding4;$/;"	m	struct:taskstate
+padding4	x86.h	/^  ushort padding4;$/;"	m	struct:trapframe
+padding5	mmu.h	/^  unsigned short padding5;$/;"	m	struct:taskstate
+padding5	x86.h	/^  ushort padding5;$/;"	m	struct:trapframe
+padding6	mmu.h	/^  unsigned short padding6;$/;"	m	struct:taskstate
+padding6	x86.h	/^  ushort padding6;$/;"	m	struct:trapframe
+padding7	mmu.h	/^  unsigned short padding7;$/;"	m	struct:taskstate
+padding8	mmu.h	/^  unsigned short padding8;$/;"	m	struct:taskstate
+padding9	mmu.h	/^  unsigned short padding9;$/;"	m	struct:taskstate
+paddr	elf.h	/^  uint paddr;$/;"	m	struct:proghdr
+panic	console.c	/^void panic(char *s)$/;"	f
+path	fs.c	/^char path[64];$/;"	v
+pde_t	types.h	/^typedef uint pde_t;$/;"	t
+phentsize	elf.h	/^  ushort phentsize;$/;"	m	struct:elfhdr
+phnum	elf.h	/^  ushort phnum;$/;"	m	struct:elfhdr
+phoff	elf.h	/^  uint phoff;$/;"	m	struct:elfhdr
+printint	console.c	/^static void printint(int xx, int base, int sign)$/;"	f	file:
+proghdr	elf.h	/^struct proghdr {$/;"	s
+pt_regs	idt.h	/^struct pt_regs {$/;"	s
+pte_t	mmu.h	/^typedef unsigned pte_t;$/;"	t
+pwd	fs.c	/^uint pwd, root;$/;"	v
+r	console.c	/^	uint r;    \/\/read$/;"	m	struct:__anon1	file:
+rcr2	x86.h	/^static inline uint rcr2(void)$/;"	f
+readeflags	x86.h	/^static inline uint readeflags(void)$/;"	f
+readline	console.c	/^char* readline(const char *prompt)$/;"	f
+readsect	bootmain.c	/^void readsect(void *dst, uint offset)$/;"	f
+readsect	fs.c	/^void readsect(void *dst, uint offset)$/;"	f
+readseg	bootmain.c	/^void readseg(uchar* pa, uint count, uint offset)$/;"	f
+readseg	fs.c	/^void readseg(uchar * pa, uint count, uint offset)$/;"	f
+register_interrupt_handler	idt.c	/^void register_interrupt_handler(uchar n, interrupt_handler_t h)$/;"	f
+remap	entrypgtable.c	/^void remap()$/;"	f
+root	fs.c	/^uint pwd, root;$/;"	v
+rsv1	mmu.h	/^  unsigned rsv1 : 1;       \/\/ Reserved$/;"	m	struct:segdesc
+rsv1	mmu.h	/^  unsigned rsv1 : 3;        \/\/ reserved(should be zero I guess)$/;"	m	struct:gatedesc
+runcmd	fs.c	/^void runcmd(char * p)$/;"	f
+s	mmu.h	/^  unsigned s : 1;           \/\/ must be 0 (system)$/;"	m	struct:gatedesc
+s	mmu.h	/^  unsigned s : 1;          \/\/ 0 = system, 1 = application$/;"	m	struct:segdesc
+safestrcpy	string.c	/^char* safestrcpy(char *s, const char *t, int n)$/;"	f
+sector_map	fs.c	/^uchar sector_map[SECTOR_MAP_SIZE * SECTOR_SIZE];$/;"	v
+sector_map	fs.h	/^	struct segment sector_map;    \/\/ the sector bitmap$/;"	m	struct:super_block	typeref:struct:super_block::segment
+segdesc	mmu.h	/^struct segdesc {$/;"	s
+segment	fs.h	/^struct segment$/;"	s
+sel	idt.h	/^	ushort sel;            \/\/ 目标代码段描述符选择子$/;"	m	struct:idt_entry
+shentsize	elf.h	/^  ushort shentsize;$/;"	m	struct:elfhdr
+shiftcode	kbd.h	/^static uchar shiftcode[256] =$/;"	v
+shiftmap	kbd.h	/^static uchar shiftmap[256] =$/;"	v
+shnum	elf.h	/^  ushort shnum;$/;"	m	struct:elfhdr
+shoff	elf.h	/^  uint shoff;$/;"	m	struct:elfhdr
+shstrndx	elf.h	/^  ushort shstrndx;$/;"	m	struct:elfhdr
+size	fs.h	/^	uint size;$/;"	m	struct:segment
+spb	fs.c	/^struct super_block spb = {$/;"	v	typeref:struct:super_block
+spin	bootasm.S	/^spin:$/;"	l
+ss	idt.h	/^	uint ss;$/;"	m	struct:pt_regs
+ss	mmu.h	/^  unsigned short ss;$/;"	m	struct:taskstate
+ss	x86.h	/^  ushort ss;$/;"	m	struct:trapframe
+ss0	mmu.h	/^  unsigned short ss0;        \/\/   after an increase in privilege level$/;"	m	struct:taskstate
+ss1	mmu.h	/^  unsigned short ss1;$/;"	m	struct:taskstate
+ss2	mmu.h	/^  unsigned short ss2;$/;"	m	struct:taskstate
+start	bootasm.S	/^start:$/;"	l
+start32	bootasm.S	/^start32:$/;"	l
+sti	x86.h	/^static inline void sti(void)$/;"	f
+stosb	x86.h	/^static inline void stosb(void *addr, int data, int cnt)$/;"	f
+stosl	x86.h	/^static inline void stosl(void *addr, int data, int cnt)$/;"	f
+strcat	string.c	/^char * strcat(char *dst, const char *src)$/;"	f
+strcmp	string.c	/^int strcmp(const char* p, const char* q)$/;"	f
+strcpy	string.c	/^char * strcpy(char *dst, const char *src)$/;"	f
+strlen	string.c	/^int strlen(const char *s)$/;"	f
+strncmp	string.c	/^int strncmp(const char *p, const char *q, uint n)$/;"	f
+strncpy	string.c	/^char* strncpy(char *s, const char *t, int n)$/;"	f
+strsplit	string.c	/^void strsplit(char *s, char limit, char * first, char * second)$/;"	f
+super_block	fs.h	/^struct super_block$/;"	s
+t	mmu.h	/^  unsigned short t;          \/\/ Trap on task switch$/;"	m	struct:taskstate
+taskstate	mmu.h	/^struct taskstate {$/;"	s
+test	idt.c	/^void test()$/;"	f
+togglecode	kbd.h	/^static uchar togglecode[256] =$/;"	v
+trap	idt.c	/^void trap(struct pt_regs * regs)$/;"	f
+trapframe	x86.h	/^struct trapframe {$/;"	s
+trapno	x86.h	/^  uint trapno;$/;"	m	struct:trapframe
+type	elf.h	/^  uint type;$/;"	m	struct:proghdr
+type	elf.h	/^  ushort type;$/;"	m	struct:elfhdr
+type	mmu.h	/^  unsigned type : 4;        \/\/ type(STS_{TG,IG32,TG32})$/;"	m	struct:gatedesc
+type	mmu.h	/^  unsigned type : 4;       \/\/ Segment type (see STS_ constants)$/;"	m	struct:segdesc
+uchar	types.h	/^typedef unsigned char  uchar;$/;"	t
+uint	types.h	/^typedef unsigned int   uint;$/;"	t
+useresp	idt.h	/^	uint useresp;$/;"	m	struct:pt_regs
+ushort	types.h	/^typedef unsigned short ushort;$/;"	t
+v2p	memlayout.h	/^static inline unsigned v2p(void *a) { return ((unsigned) (a))  - KERNBASE; }$/;"	f
+vaddr	elf.h	/^  uint vaddr;$/;"	m	struct:proghdr
+version	elf.h	/^  uint version;$/;"	m	struct:elfhdr
+w	console.c	/^	uint w;    \/\/write$/;"	m	struct:__anon1	file:
+waitdisk	bootmain.c	/^void waitdisk(void)$/;"	f
+waitdisk	fs.c	/^void waitdisk(void)$/;"	f
+write_inode	fs.c	/^void write_inode(uint num, struct inode * node)$/;"	f
+writesect	fs.c	/^void writesect(void *dst, uint offset)$/;"	f
+writeseg	fs.c	/^void writeseg(uchar * pa, uint count, uint offset)$/;"	f
+xchg	x86.h	/^static inline uint xchg(volatile uint *addr, uint newval)$/;"	f
